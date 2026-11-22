@@ -1,0 +1,29 @@
+# Saarthi export recipe: Llama 3.2 1B Instruct -> ExecuTorch .pte for Arm CPUs.
+#   8da4w  = 8-bit dynamic activations x 4-bit grouped weights (linear layers)
+#   4,32   = 4-bit embedding table, group size 32 (the 128k-token embedding is ~25% of params)
+#   XNNPACK delegate -> Arm NEON / dotprod / i8mm (KleidiAI micro-kernels on recent XNNPACK)
+#   KV cache + fused SDPA custom op -> O(1) work per decoded token
+base:
+  model_class: llama3_2
+  metadata: '{"get_bos_id":128000, "get_eos_ids":[128009, 128001]}'
+
+model:
+  use_kv_cache: True
+  use_sdpa_with_kv_cache: True
+  dtype_override: fp32
+  # quantize_kv_cache: True   # optional: int8 KV cache (-96 MB at 2048 ctx); benchmark before enabling
+
+export:
+  max_seq_length: 2048
+  max_context_length: 2048
+  output_name: saarthi_llama3_2_1b_int4.pte
+
+quantization:
+  qmode: 8da4w
+  group_size: 64
+  embedding_quantize: 4,32
+
+backend:
+  xnnpack:
+    enabled: True
+    extended_ops: True

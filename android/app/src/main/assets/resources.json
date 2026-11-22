@@ -1,0 +1,514 @@
+[
+ {
+  "title": "NPTEL courses",
+  "provider": "NPTEL (IITs & IISc)",
+  "url": "https://nptel.ac.in",
+  "type": "course",
+  "tags": [
+   "engineering",
+   "vlsi",
+   "digital",
+   "electronics",
+   "signals",
+   "communication",
+   "embedded",
+   "control",
+   "gate",
+   "circuits",
+   "computer architecture",
+   "machine learning",
+   "data structures",
+   "networks",
+   "semiconductor"
+  ],
+  "free": true
+ },
+ {
+  "title": "SWAYAM free courses",
+  "provider": "Govt. of India",
+  "url": "https://swayam.gov.in",
+  "type": "course",
+  "tags": [
+   "engineering",
+   "science",
+   "commerce",
+   "arts",
+   "management",
+   "teaching",
+   "ugc",
+   "school",
+   "college"
+  ],
+  "free": true
+ },
+ {
+  "title": "NCERT textbooks",
+  "provider": "NCERT",
+  "url": "https://ncert.nic.in/textbook.php",
+  "type": "book",
+  "tags": [
+   "physics",
+   "chemistry",
+   "biology",
+   "mathematics",
+   "math",
+   "neet",
+   "jee",
+   "history",
+   "geography",
+   "polity",
+   "economics",
+   "upsc",
+   "science",
+   "cbse"
+  ],
+  "free": true
+ },
+ {
+  "title": "Spoken Tutorial (Indian languages)",
+  "provider": "IIT Bombay",
+  "url": "https://spoken-tutorial.org",
+  "type": "video",
+  "tags": [
+   "python",
+   "c",
+   "c++",
+   "java",
+   "linux",
+   "latex",
+   "scilab",
+   "libreoffice",
+   "programming",
+   "arduino",
+   "indian languages"
+  ],
+  "free": true
+ },
+ {
+  "title": "DIKSHA",
+  "provider": "Ministry of Education",
+  "url": "https://diksha.gov.in",
+  "type": "course",
+  "tags": [
+   "school",
+   "cbse",
+   "class",
+   "teacher",
+   "science",
+   "mathematics"
+  ],
+  "free": true
+ },
+ {
+  "title": "Khan Academy",
+  "provider": "Khan Academy",
+  "url": "https://www.khanacademy.org",
+  "type": "course",
+  "tags": [
+   "math",
+   "mathematics",
+   "algebra",
+   "calculus",
+   "probability",
+   "statistics",
+   "physics",
+   "chemistry",
+   "economics",
+   "finance"
+  ],
+  "free": true
+ },
+ {
+  "title": "CS50x Introduction to CS",
+  "provider": "Harvard",
+  "url": "https://cs50.harvard.edu/x/",
+  "type": "course",
+  "tags": [
+   "programming",
+   "computer science",
+   "c",
+   "python",
+   "algorithms",
+   "sql",
+   "web"
+  ],
+  "free": true
+ },
+ {
+  "title": "MIT OpenCourseWare",
+  "provider": "MIT",
+  "url": "https://ocw.mit.edu",
+  "type": "course",
+  "tags": [
+   "circuits",
+   "signals",
+   "algorithms",
+   "linear algebra",
+   "calculus",
+   "electronics",
+   "physics",
+   "machine learning",
+   "computer architecture"
+  ],
+  "free": true
+ },
+ {
+  "title": "freeCodeCamp",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn",
+  "type": "practice",
+  "tags": [
+   "python",
+   "javascript",
+   "web",
+   "html",
+   "css",
+   "sql",
+   "data analysis",
+   "react",
+   "api",
+   "programming"
+  ],
+  "free": true
+ },
+ {
+  "title": "MDN Learn web development",
+  "provider": "Mozilla",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn",
+  "type": "book",
+  "tags": [
+   "html",
+   "css",
+   "javascript",
+   "web",
+   "frontend"
+  ],
+  "free": true
+ },
+ {
+  "title": "Python tutorial",
+  "provider": "Python.org",
+  "url": "https://docs.python.org/3/tutorial/",
+  "type": "book",
+  "tags": [
+   "python",
+   "programming"
+  ],
+  "free": true
+ },
+ {
+  "title": "Kaggle Learn",
+  "provider": "Kaggle",
+  "url": "https://www.kaggle.com/learn",
+  "type": "practice",
+  "tags": [
+   "machine learning",
+   "data science",
+   "pandas",
+   "python",
+   "sql",
+   "deep learning",
+   "data analysis",
+   "visualization"
+  ],
+  "free": true
+ },
+ {
+  "title": "PyTorch tutorials",
+  "provider": "PyTorch",
+  "url": "https://pytorch.org/tutorials/",
+  "type": "book",
+  "tags": [
+   "pytorch",
+   "deep learning",
+   "neural networks",
+   "machine learning",
+   "ai"
+  ],
+  "free": true
+ },
+ {
+  "title": "ExecuTorch documentation",
+  "provider": "PyTorch",
+  "url": "https://pytorch.org/executorch/",
+  "type": "book",
+  "tags": [
+   "executorch",
+   "on-device ai",
+   "edge ai",
+   "llm",
+   "quantization",
+   "android"
+  ],
+  "free": true
+ },
+ {
+  "title": "Arm Learning Paths",
+  "provider": "Arm",
+  "url": "https://learn.arm.com",
+  "type": "practice",
+  "tags": [
+   "arm",
+   "embedded",
+   "neon",
+   "simd",
+   "android",
+   "mobile",
+   "ai",
+   "performance",
+   "cortex",
+   "assembly"
+  ],
+  "free": true
+ },
+ {
+  "title": "Android developer courses",
+  "provider": "Google",
+  "url": "https://developer.android.com/courses",
+  "type": "course",
+  "tags": [
+   "android",
+   "kotlin",
+   "jetpack compose",
+   "mobile",
+   "app development"
+  ],
+  "free": true
+ },
+ {
+  "title": "Kotlin docs",
+  "provider": "JetBrains",
+  "url": "https://kotlinlang.org/docs/home.html",
+  "type": "book",
+  "tags": [
+   "kotlin",
+   "android",
+   "programming"
+  ],
+  "free": true
+ },
+ {
+  "title": "HDLBits Verilog practice",
+  "provider": "HDLBits",
+  "url": "https://hdlbits.01xz.net",
+  "type": "practice",
+  "tags": [
+   "verilog",
+   "rtl",
+   "digital logic",
+   "fsm",
+   "state machine",
+   "combinational",
+   "sequential",
+   "vlsi",
+   "hdl"
+  ],
+  "free": true
+ },
+ {
+  "title": "ChipVerify",
+  "provider": "ChipVerify",
+  "url": "https://www.chipverify.com",
+  "type": "book",
+  "tags": [
+   "verilog",
+   "systemverilog",
+   "uvm",
+   "verification",
+   "vlsi",
+   "rtl",
+   "asic"
+  ],
+  "free": true
+ },
+ {
+  "title": "Electronics Tutorials",
+  "provider": "Electronics-Tutorials",
+  "url": "https://www.electronics-tutorials.ws",
+  "type": "book",
+  "tags": [
+   "electronics",
+   "analog",
+   "circuits",
+   "transistors",
+   "op-amp",
+   "diodes",
+   "digital logic",
+   "filters"
+  ],
+  "free": true
+ },
+ {
+  "title": "AWS Skill Builder",
+  "provider": "Amazon Web Services",
+  "url": "https://skillbuilder.aws",
+  "type": "course",
+  "tags": [
+   "aws",
+   "cloud",
+   "cloud practitioner",
+   "devops",
+   "certification"
+  ],
+  "free": true
+ },
+ {
+  "title": "Cisco Networking Academy",
+  "provider": "Cisco",
+  "url": "https://www.netacad.com",
+  "type": "course",
+  "tags": [
+   "ccna",
+   "networking",
+   "cybersecurity",
+   "iot",
+   "routing",
+   "switching"
+  ],
+  "free": true
+ },
+ {
+  "title": "Microsoft Learn",
+  "provider": "Microsoft",
+  "url": "https://learn.microsoft.com/training/",
+  "type": "course",
+  "tags": [
+   "azure",
+   "excel",
+   "power bi",
+   "cloud",
+   "certification",
+   "office"
+  ],
+  "free": true
+ },
+ {
+  "title": "Elements of AI",
+  "provider": "University of Helsinki",
+  "url": "https://www.elementsofai.com",
+  "type": "course",
+  "tags": [
+   "ai",
+   "artificial intelligence",
+   "understand ai",
+   "machine learning basics"
+  ],
+  "free": true
+ },
+ {
+  "title": "Zerodha Varsity",
+  "provider": "Zerodha",
+  "url": "https://zerodha.com/varsity/",
+  "type": "book",
+  "tags": [
+   "personal finance",
+   "investing",
+   "stock market",
+   "finance",
+   "money",
+   "mutual funds"
+  ],
+  "free": true
+ },
+ {
+  "title": "BBC Learning English",
+  "provider": "BBC",
+  "url": "https://www.bbc.co.uk/learningenglish",
+  "type": "course",
+  "tags": [
+   "english",
+   "spoken english",
+   "grammar",
+   "vocabulary",
+   "pronunciation"
+  ],
+  "free": true
+ },
+ {
+  "title": "Duolingo",
+  "provider": "Duolingo",
+  "url": "https://www.duolingo.com",
+  "type": "practice",
+  "tags": [
+   "language",
+   "japanese",
+   "spanish",
+   "french",
+   "german",
+   "english",
+   "hindi"
+  ],
+  "free": true
+ },
+ {
+  "title": "Lichess Learn",
+  "provider": "Lichess",
+  "url": "https://lichess.org/learn",
+  "type": "practice",
+  "tags": [
+   "chess",
+   "chess openings",
+   "tactics",
+   "strategy"
+  ],
+  "free": true
+ },
+ {
+  "title": "JustinGuitar",
+  "provider": "JustinGuitar",
+  "url": "https://www.justinguitar.com",
+  "type": "video",
+  "tags": [
+   "guitar",
+   "music",
+   "chords",
+   "guitar basics"
+  ],
+  "free": true
+ },
+ {
+  "title": "Krita manual",
+  "provider": "Krita",
+  "url": "https://docs.krita.org",
+  "type": "book",
+  "tags": [
+   "digital illustration",
+   "drawing",
+   "painting",
+   "art",
+   "sketching"
+  ],
+  "free": true
+ },
+ {
+  "title": "UPSC official site",
+  "provider": "UPSC",
+  "url": "https://upsc.gov.in",
+  "type": "exam",
+  "tags": [
+   "upsc",
+   "civil services",
+   "prelims",
+   "mains",
+   "ias"
+  ],
+  "free": true
+ },
+ {
+  "title": "GeeksforGeeks",
+  "provider": "GeeksforGeeks",
+  "url": "https://www.geeksforgeeks.org",
+  "type": "practice",
+  "tags": [
+   "data structures",
+   "algorithms",
+   "dsa",
+   "gate cs",
+   "interview",
+   "programming",
+   "operating systems",
+   "dbms"
+  ],
+  "free": true
+ }
+]

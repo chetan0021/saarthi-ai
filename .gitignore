@@ -1,0 +1,9 @@
+*.pte
+*.pth
+tokenizer.model
+benchmarks/results/
+__pycache__/
+.DS_Store
+dist/
+*.jks
+*.keystore

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Saarthi</string>
+    <string name="tab_goal">Goal</string>
+    <string name="tab_path">Path</string>
+    <string name="tab_quiz">Quiz</string>
+    <string name="tab_mentor">Mentor</string>
+    <string name="tab_device">Device</string>
+    <string name="offline">Offline</string>
+    <string name="goal_title">What do you want to learn?</string>
+    <string name="goal_subtitle">Saarthi builds your personal plan on this phone – no internet needed.</string>
+    <string name="your_name">Your name</string>
+    <string name="goal_type">Goal type</string>
+    <string name="goal_hint">e.g. Become a VLSI design engineer</string>
+    <string name="level">Current level</string>
+    <string name="hours_week">Study hours per week</string>
+    <string name="duration_weeks">Duration (weeks)</string>
+    <string name="known_skills">Skills you already have (comma separated)</string>
+    <string name="interests">Interests and hobbies (comma separated)</string>
+    <string name="language">Language</string>
+    <string name="take_diagnostic">Take 5-question diagnostic</string>
+    <string name="skip_generate">Skip and generate plan</string>
+    <string name="diagnostic_title">Quick diagnostic</string>
+    <string name="submit">Submit</string>
+    <string name="skill_gaps">Skill-gap analysis</string>
+    <string name="your_roadmap">Your learning roadmap</string>
+    <string name="week">Week</string>
+    <string name="milestone">Milestone</string>
+    <string name="plan_week">Generate daily plan</string>
+    <string name="quiz_me">Quiz me</string>
+    <string name="weekly_review">Weekly review</string>
+    <string name="too_easy">Too easy</string>
+    <string name="just_right">Just right</string>
+    <string name="too_hard">Too hard</string>
+    <string name="more_time">Need more time</string>
+    <string name="due_review">Due for review</string>
+    <string name="weak_topics">Needs practice</string>
+    <string name="all_topics">All topics</string>
+    <string name="start_quiz">Start quiz</string>
+    <string name="mastery">Mastery</string>
+    <string name="ask_mentor">Ask your mentor…</string>
+    <string name="send">Send</string>
+    <string name="generating">Generating on-device…</string>
+    <string name="stop">Stop</string>
+    <string name="no_model">Model not installed</string>
+    <string name="edit_goal">Edit goal</string>
+    <string name="regenerate">Regenerate plan</string>
+    <string name="resources">Free resources</string>
+    <string name="level_0">Beginner</string>
+    <string name="level_1">Elementary</string>
+    <string name="level_2">Intermediate</string>
+    <string name="level_3">Advanced</string>
+    <string name="no_roadmap">Set your goal in the Goal tab to get your roadmap.</string>
+    <string name="how_is_pace">How is the pace?</string>
+</resources>
